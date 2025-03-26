@@ -62,4 +62,8 @@ Di dalam `JFrame`, terdapat beberapa komponen utama:
 - Saat program berjalan, data mahasiswa disimpan dalam database MySQL.
 - Setiap perubahan data akan langsung diperbarui ke database, sehingga data tetap tersimpan meskipun program ditutup.
 
-   
+# Dokumentasi Output
+https://github.com/user-attachments/assets/58e0a71a-4ea5-4832-8fe1-50495b374445
+
+
+
